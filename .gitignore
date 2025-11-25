@@ -1,0 +1,27 @@
+# Zig build artifacts
+.zig-cache/
+zig-out/
+zig-cache/
+
+# Built executables (should be built, not committed)
+sol-server
+sol-cli
+soldb
+
+# Database files
+dump.rdb
+*.rdb
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary files
+*.tmp
+*.temp
