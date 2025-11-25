@@ -1,5 +1,3 @@
-# soldb
-
 # SOLDB
 
 A lightweight, high-performance database written in Zig. SOLDB provides both a server and CLI interface, inspired by Redis but built for modern applications.
