@@ -7,7 +7,7 @@ A lightweight, high-performance database written in Zig. SOLDB provides both a s
 ## Features
 
 - 🚀 **High Performance**: Built in Zig for maximum efficiency
-- 💾 **Persistent Storage**: Data durability with snapshotting
+- 💾 **Persistent Storage**: Data durability with snapshotting(yet to be implemented)
 - 🔌 **Simple Protocol**: Easy-to-use client-server architecture
 - 🛠 **Developer Friendly**: Clean CLI and straightforward API
 
