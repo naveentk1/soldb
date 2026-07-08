@@ -1,4 +1,4 @@
-# soldb - M1-Optimized In-Memory Key-Value Store
+# [EXPERIMENTAL]soldb - M1-Optimized In-Memory Key-Value Store
 
 A high-performance in-memory key-value store optimized for Apple Silicon (M1/M2/M3 Macs). Inspired by Redis, designed for learning and performance experimentation.
 
